@@ -1,0 +1,9 @@
+{
+  "/dashboard/properties/page": "app/dashboard/properties/page.js",
+  "/dashboard/properties/create/page": "app/dashboard/properties/create/page.js",
+  "/dashboard/properties/profile/[id]/page": "app/dashboard/properties/profile/[id]/page.js",
+  "/dashboard/rentals/page": "app/dashboard/rentals/page.js",
+  "/dashboard/customers/page": "app/dashboard/customers/page.js",
+  "/dashboard/payments/page": "app/dashboard/payments/page.js",
+  "/dashboard/payments/create/page": "app/dashboard/payments/create/page.js"
+}

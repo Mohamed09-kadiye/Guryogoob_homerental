@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/home": "pages/home.js",
+  "/property/[id]": "pages/property/[id].js",
+  "/customers/signin": "pages/customers/signin.js",
+  "/customers/signup": "pages/customers/signup.js"
+}

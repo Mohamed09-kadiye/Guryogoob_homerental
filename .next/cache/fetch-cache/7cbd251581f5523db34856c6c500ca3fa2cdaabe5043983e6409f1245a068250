@@ -1,0 +1,1 @@
+{"kind":"FETCH","data":{"headers":{"connection":"keep-alive","content-length":"0","date":"Thu, 07 Dec 2023 20:14:21 GMT","keep-alive":"timeout=60","vary":"Origin, Access-Control-Request-Method, Access-Control-Request-Headers"},"body":"","status":200,"url":"http://localhost:9092/api/users/3"},"revalidate":31536000,"tags":[]}
